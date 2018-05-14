@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Comp354/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/imported lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/imported lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/imported lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kjmas/git/COMP354/COMP354Project/imported lib/YahooFinanceAPI-3.5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
